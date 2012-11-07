@@ -1,0 +1,3 @@
+= issues_link
+
+It's a simple plugin which adds 'issues' link to your top_menu. It's also adds some css, which is for classic theme only (will look wierd on ther themes), uses group.png as an icon
